@@ -6,5 +6,5 @@ au.com.agiledigital.idea_search.listener
 au.com.agiledigital.idea_search.macros
 au.com.agiledigital.idea_search.macros.transport
 au.com.agiledigital.idea_search.model
+au.com.agiledigital.idea_search.rest
 au.com.agiledigital.idea_search.service
-au.com.agiledigital.idea_search.servlet
